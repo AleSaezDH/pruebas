@@ -1,1 +1,1 @@
-console.log("participante a realiza cambio")
+console.log("nuevo cambio")
